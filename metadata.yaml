@@ -1,11 +1,16 @@
 _repo: Biblical-Revision-considerations-in-favour-of-a-revised-translation-of-Holy-Scripture_64728
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64728-h/images/cover.jpg
 creator:
   author:
     agent_name: Slater, Edward
     gutenberg_agent_id: '53028'
     url: http://www.gutenberg.org/2009/agents/53028
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64728#Biblical-Revision-considerations-in-favour-of-a-revised-translation-of-Holy-Scripture
 gutenberg_issued: '2021-03-06'
 gutenberg_type: Text
 identifiers:
